@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 <!--
 - 🔭 I’m currently working on becoming a digital designer.
 - 🌱 I’m currently learning basic HTML, CSS, Adobe Photoshop, and Illustrator.
